@@ -18,10 +18,6 @@ while True: # Game Loop
 
     madlib_final = []
     userinput = []
-    sent_ind = []
-    noun_ind = []
-    verb_ind = []
-    adj_ind = []
 
 # Create Lists for MadLib Game (Nouns, Verbs, Adjectives)
 
